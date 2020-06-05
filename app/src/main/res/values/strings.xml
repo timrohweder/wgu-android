@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Course Scheduler</string>
+    <string name="title_activity_navigation">Navigation Menu</string>
+    <string name="terms_nav_text">See All Terms</string>
+    <string name="courses_nav_text">See All Courses</string>
+    <string name="assessments_nav_text">See All Assessments</string>
+    <string name="title_activity_terms">All Terms</string>
+    <string name="title_activity_courses">All Courses</string>
+    <string name="title_activity_assessments">All Assessments</string>
+    <string name="title_activity_add_term">Add a Term</string>
+    <string name="title_activity_add_edit_course">Add a Course</string>
+    <string name="title_activity_term_detail_view">Term Detailed View</string>
+    <string name="title_activity_course_detail_view">Course Detailed View</string>
+    <string name="title_activity_add_edit_assessment">Add Assessment</string>
+    <string name="title_activity_assessment_detail_view">Assessment Detailed View</string>
+    <string name="title_activity_mentors">All Mentors</string>
+    <string name="title_activity_mentor_detail_view">Mentor Detailed View</string>
+    <string name="title_activity_add_edit_mentor">AddEditMentorActivity</string>
+</resources>
